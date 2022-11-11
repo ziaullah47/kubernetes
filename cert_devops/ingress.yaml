@@ -7,10 +7,10 @@ metadata:
 spec:
   tls:
   - hosts:
-    - <your.dns.com>
+    - bisema.com
     secretName: example-app-tls
   rules:
-  - host: <your.dns.com> 
+  - host: bisema.com 
     http:
       paths:
       - path: /
