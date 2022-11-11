@@ -5,7 +5,7 @@ metadata:
   namespace: cert-manager-test
 spec:
   dnsNames:
-    - example.com
+    - bisema.com
   secretName: selfsigned-cert-tls
   issuerRef:
     name: test-selfsigned
